@@ -17,6 +17,8 @@ VERİ SETİNİN OLUŞTURULMASI:
 
 Veri seti 1000kitap sitesinden çekilen kitap isimleri ve konuları ile oluşturulmuştur.
 İlk olarak selenium kütüphanesi ile sitenin en beğenilen kitapları gösterdiği https://1000kitap.com/kitaplar/en-begenilenler adresinden kitapların linklerini txt dosyasına kaydettim.
+![image](https://github.com/IlknuraySudeBilgin/YemekProje/assets/116540925/b4d8dc26-0bad-4f61-a9f0-ce02ce3042ec)
+
  
 
 Sonra bu linkleri tek tek gezerek kitapların isimlerini ve konularını çekerek txt dosyasına kaydettim ve bu verileri excel dosyasına kaydederek veri setini oluşturdum.
